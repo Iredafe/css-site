@@ -101,6 +101,7 @@ img {
 
 .skill-info {
   text-align: left;
+color: #EAF6F6;
 }
 
 hr {
@@ -139,13 +140,13 @@ hr {
   -moz-border-radius: 8;
   border-radius: 8px;
   font-family: 'Montserrat Alternates', sans-serif;
-  color: #ffffff;
   padding: 15px 50px 15px 32px;
+  color: #ffffff;
   text-decoration: none;
 }
 .contact-me-words{
   margin: 30px auto 70px;
-
+color: #ffffff;
 }
 
 .btn:hover {
@@ -159,14 +160,14 @@ hr {
 }
 
 .copyright {
-  color: #ffffff;
+  color: #000000;
   margin-top: 60px;
   font-size: 0.75rem;
 
 }
 
 .footer-link {
-  color: #11999E;
+  color: #40514E;
   margin: 20px;
   font-family: sans-serif;
   text-decoration: none;
